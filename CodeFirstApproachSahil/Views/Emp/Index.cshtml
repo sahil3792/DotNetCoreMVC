@@ -1,0 +1,36 @@
+﻿@model List<Emp>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<span style="color:greenyellow">@TempData["Msg"]</span>
+
+<a asp-controller="Emp" asp-action="AddEmp" ><input type="Submit" value="Add New Emp" class="btn btn-outline-primary" /></a>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+            <th scope="col">Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var d in Model)
+        {
+            <tr>
+                <th scope="row">@d.Id</th>
+                <td>@d.Name</td>
+                <td>@d.Email</td>
+                <td>@d.Salary</td>
+            </tr>
+        }
+        
+    </tbody>
+</table>
