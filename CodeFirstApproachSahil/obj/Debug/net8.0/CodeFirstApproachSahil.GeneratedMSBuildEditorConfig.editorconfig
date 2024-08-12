@@ -26,8 +26,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\Sahil Shaikh\CodeFirstApproachSahil\CodeFirstApproachSahil
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Admin/Desktop/Sahil Shaikh/CodeFirstApproachSahil/CodeFirstApproachSahil/Views/Email/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Sahil Shaikh/CodeFirstApproachSahil/CodeFirstApproachSahil/Views/Email/Mail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcTWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Admin/Desktop/Sahil Shaikh/CodeFirstApproachSahil/CodeFirstApproachSahil/Views/Emp/AddEmp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEFkZEVtcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Sahil Shaikh/CodeFirstApproachSahil/CodeFirstApproachSahil/Views/Emp/EditEmp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEVkaXRFbXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/Desktop/Sahil Shaikh/CodeFirstApproachSahil/CodeFirstApproachSahil/Views/Emp/Index.cshtml]
@@ -44,6 +56,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Admin/Desktop/Sahil Shaikh/CodeFirstApproachSahil/CodeFirstApproachSahil/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Sahil Shaikh/CodeFirstApproachSahil/CodeFirstApproachSahil/Views/Shared/Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5vdGlmaWNhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/Desktop/Sahil Shaikh/CodeFirstApproachSahil/CodeFirstApproachSahil/Views/Shared/_ValidationScriptsPartial.cshtml]
