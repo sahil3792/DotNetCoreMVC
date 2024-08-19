@@ -1,0 +1,22 @@
+﻿@model List<Product>
+
+<div class="d-flex">
+    @foreach(var item in Model)
+    {
+        
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="@item.Picture" height="200" width="200">
+            <div class="card-body">
+                <h5 class="card-title">@item.Pname</h5>
+            </div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">@item.Pcat</li>
+                <li class="list-group-item">@item.Price</li>
+            </ul>
+            <div class="card-body">
+                <a href="#" class="btn btn-sm btn-Primary">Add to Cart</a>
+            </div>
+        </div>
+    }
+</div>
+

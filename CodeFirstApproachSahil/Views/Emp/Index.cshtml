@@ -10,14 +10,14 @@
 <partial name = "Notification"></partial>
 <a asp-controller="Emp" asp-action="AddEmp" ><input type="Submit" value="Add New Emp" class="btn btn-outline-primary" /></a>
 <form method="post" >
-    <div>
-        <input type="text" name="Ename" class="form-control"/>
-        <input type="submit" value="Search" class="btn btn-info" />
-    </div>
+    <span style="display:flex">
+        <input type="text" name="Ename" class="form-control" style="width:30px; flex:1"/>
+        <input type="submit" value="Search" class="btn btn-info" stype="flex:1" />
+    </span>
 </form>
 
 <form asp-action="DeleteMultiple" method="post">
-<table class="table">
+<table class="table" id="mytable">
     <thead>
         <tr>
             <th scope="col">Select</th>
@@ -51,4 +51,27 @@
     <input type="submit" value="Submit"/>
 </div>
 </form>
+
+
+@section scripts {
+    <link href="https://cdn.datatables.net/v/dt/dt-2.1.4/af-2.7.0/b-3.1.1/b-html5-3.1.1/b-print-3.1.1/datatables.min.css" rel="stylesheet">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/pdfmake.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/vfs_fonts.js"></script>
+    <script src="https://cdn.datatables.net/v/dt/dt-2.1.4/af-2.7.0/b-3.1.1/b-html5-3.1.1/b-print-3.1.1/datatables.min.js"></script>
+
+
+<script>
+    $(document).ready(function () {
+            $('#mytable').DataTable({
+                dom: 'Bftip',
+                buttons: [
+                    'copy', 'csv', 'pdf','print'
+                ]
+            });
+    });
+</script>
+}
+
+
 

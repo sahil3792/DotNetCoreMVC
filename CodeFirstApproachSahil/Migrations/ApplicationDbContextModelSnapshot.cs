@@ -44,6 +44,31 @@ namespace CodeFirstApproachSahil.Migrations
 
                     b.ToTable("emps");
                 });
+
+            modelBuilder.Entity("CodeFirstApproachSahil.Models.Product", b =>
+                {
+                    b.Property<int>("Pid")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Pid"));
+
+                    b.Property<string>("Pcat")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Picture")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Pname")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<double>("Price")
+                        .HasColumnType("float");
+
+                    b.HasKey("Pid");
+
+                    b.ToTable("products");
+                });
 #pragma warning restore 612, 618
         }
     }

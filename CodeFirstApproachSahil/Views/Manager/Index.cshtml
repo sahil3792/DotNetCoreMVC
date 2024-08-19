@@ -1,0 +1,44 @@
+﻿@model List<Emp>
+
+
+@{
+    ViewData["Title"] = "Index";
+
+
+}
+
+@if(TempData["msg"]!=null)
+{
+    @TempData["msg"]
+}
+
+<br />
+
+<a asp-controller="Manager" asp-action="AddManager" class="btn btn-primary"> Add New</a>
+
+<br /><br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+            <th scope="col">Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.Salary</td>
+            </tr>
+        }
+        
+        
+    </tbody>
+</table>
+

@@ -3,36 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\views\\email\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\views\\email\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\wwwroot\\js\\doc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\wwwroot\\js\\doc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\views\\emp\\editemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\views\\emp\\editemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\controllers\\ajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\controllers\\ajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\views\\shared\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\views\\shared\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\views\\emp\\addemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\views\\emp\\addemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\views\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\views\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\codefirstapproachsahil\\codefirstapproachsahil\\migrations\\20240814085903_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D3D5C9-2183-4E39-A9A3-EEA68B1978FF}|CodeFirstApproachSahil\\CodeFirstApproachSahil.csproj|solutionrelative:codefirstapproachsahil\\migrations\\20240814085903_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,29 +101,66 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Notification.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Shared\\Notification.cshtml",
-              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Views\\Shared\\Notification.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Shared\\Notification.cshtml",
-              "RelativeToolTip": "CodeFirstApproachSahil\\Views\\Shared\\Notification.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-12T11:00:00.794Z",
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Models\\Emp.cs",
+              "RelativeToolTip": "CodeFirstApproachSahil\\Models\\Emp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:31:42.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EditEmp.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Emp\\EditEmp.cshtml",
-              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Views\\Emp\\EditEmp.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Emp\\EditEmp.cshtml",
-              "RelativeToolTip": "CodeFirstApproachSahil\\Views\\Emp\\EditEmp.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAYAAAAGAAAA",
+              "DocumentIndex": 2,
+              "Title": "Doc.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\wwwroot\\js\\Doc.js",
+              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\wwwroot\\js\\Doc.js",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\wwwroot\\js\\Doc.js",
+              "RelativeToolTip": "CodeFirstApproachSahil\\wwwroot\\js\\Doc.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-19T10:21:48.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Ajax\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Views\\Ajax\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Ajax\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstApproachSahil\\Views\\Ajax\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-12T10:08:53.829Z",
+              "WhenOpened": "2024-08-19T10:20:20.498Z",
               "EditorCaption": ""
             },
             {
@@ -106,75 +171,148 @@
               "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Views\\Emp\\Index.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Emp\\Index.cshtml",
               "RelativeToolTip": "CodeFirstApproachSahil\\Views\\Emp\\Index.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAABIAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-09T11:12:20.769Z",
+              "WhenOpened": "2024-08-19T08:31:58.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddEmp.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Emp\\AddEmp.cshtml",
-              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Views\\Emp\\AddEmp.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Emp\\AddEmp.cshtml",
-              "RelativeToolTip": "CodeFirstApproachSahil\\Views\\Emp\\AddEmp.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-09T11:05:27.738Z",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\appsettings.json",
+              "RelativeToolTip": "CodeFirstApproachSahil\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T10:33:03.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AjaxController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Controllers\\AjaxController.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Controllers\\AjaxController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Controllers\\AjaxController.cs",
+              "RelativeToolTip": "CodeFirstApproachSahil\\Controllers\\AjaxController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T10:16:50.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmpController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Controllers\\EmpController.cs",
-              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Controllers\\EmpController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Controllers\\EmpController.cs",
-              "RelativeToolTip": "CodeFirstApproachSahil\\Controllers\\EmpController.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAgwEwAAAAQAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Program.cs",
+              "RelativeToolTip": "CodeFirstApproachSahil\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T10:58:09.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Email\\Index.cshtml",
-              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Views\\Email\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Email\\Index.cshtml",
-              "RelativeToolTip": "CodeFirstApproachSahil\\Views\\Email\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-12T08:02:10.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Email.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Models\\Email.cs",
-              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Models\\Email.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Models\\Email.cs",
-              "RelativeToolTip": "CodeFirstApproachSahil\\Models\\Email.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T07:59:13.928Z",
+              "WhenOpened": "2024-08-19T08:40:55.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CodeFirstApproachSahil\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwAwAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T11:12:51.844Z",
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "CodeFirstApproachSahil\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-19T11:13:53.086Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Emp\\AddEmp.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Views\\Emp\\AddEmp.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Emp\\AddEmp.cshtml",
+              "RelativeToolTip": "CodeFirstApproachSahil\\Views\\Emp\\AddEmp.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T10:00:53.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240814085903_products.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Migrations\\20240814085903_products.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Migrations\\20240814085903_products.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Migrations\\20240814085903_products.cs",
+              "RelativeToolTip": "CodeFirstApproachSahil\\Migrations\\20240814085903_products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:59:03.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CodeFirstApproachSahil\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:57:01.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstApproachSahil\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T08:54:07.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CodeFirstApproachSahil\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:53:29.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Manager\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Views\\Manager\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Views\\Manager\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstApproachSahil\\Views\\Manager\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T10:51:36.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachSahil\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\Models\\Product.cs",
+              "RelativeToolTip": "CodeFirstApproachSahil\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:50:16.049Z"
             }
           ]
         },

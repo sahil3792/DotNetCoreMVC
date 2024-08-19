@@ -12,6 +12,7 @@ namespace CodeFirstApproachSahil.Data
         }
 
         public DbSet< Emp > emps { get; set; }
+        public DbSet<Product> products { get; set; }
 
     }
 }

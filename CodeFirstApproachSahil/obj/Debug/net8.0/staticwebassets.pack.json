@@ -5,12 +5,28 @@
       "PackagePath": "staticwebassets\\CodeFirstApproachSahil.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\wwwroot\\Content\\Images\\adhar card prajakta.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\adhar card prajakta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\wwwroot\\Content\\Images\\c#.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\c#.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\wwwroot\\Content\\Images\\c#1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\c#1.jpg"
+    },
+    {
       "Id": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\wwwroot\\js\\Doc.js",
+      "PackagePath": "staticwebassets\\js\\Doc.js"
     },
     {
       "Id": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\CodeFirstApproachSahil\\CodeFirstApproachSahil\\wwwroot\\js\\site.js",
