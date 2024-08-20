@@ -26,6 +26,24 @@ namespace CodeFirstApproachSahil.Controllers
             return Json("");
         }
 
+        public IActionResult GetEmp()
+        {
+            var data =db.emps.ToList();
+            return Json(data);
+        }
+
+        public IActionResult DeleteEmp(int eid)
+        {
+            var data = db.emps.Find(eid);
+            db.emps.Remove(data);
+            db.SaveChanges();
+            return Json("");
+        }
+        public IActionResult EditEmp(int eid)
+        {
+            var data = db.emps.Find(eid);
+            return Json(data);
+        }
         
     }
 }

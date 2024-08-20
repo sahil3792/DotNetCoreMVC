@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeFirstApproachSahil")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d6557bc1224ff7f0637b7c39c7bf21645c41f51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7425fd6895b72c4434fa2c718a0457a94c6c8d4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeFirstApproachSahil")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeFirstApproachSahil")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

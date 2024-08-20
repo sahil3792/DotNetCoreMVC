@@ -31,6 +31,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Emp}/{action=Index}/{id?}");
+    pattern: "{controller=Ajax}/{action=Index}/{id?}");
 
 app.Run();

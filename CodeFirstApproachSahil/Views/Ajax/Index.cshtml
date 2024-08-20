@@ -18,27 +18,45 @@
                 <form method="post" id="myform">
                     <div class="form-group">
                         <label for="exampleInputEmail1">Name </label>
-                        <input type="email" name="Name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                        <input type="email" name="Name" class="form-control" id="Name" aria-describedby="emailHelp" placeholder="Enter email">
                     </div>
                     <div class="form-group">
                         <label for="exampleInputPassword1">Password</label>
-                        <input type="text" name="Email" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                        <input type="text" name="Email" class="form-control" id="Email" placeholder="Password">
                     </div>
                     <div class="form-group">
                         <label for="exampleInputPassword1">Password</label>
-                        <input type="text" name="Salary" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                        <input type="text" name="Salary" class="form-control" id="Salary" placeholder="Password">
                     </div>
                     
                     
                 </form>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" id="closebtn" >Close</button>
-                <button type="button" class="btn btn-primary" id="savebtn">Save changes</button>
+                <button type="button" class="btn btn-secondary" id="Updatebtn" >Update</button>
+                <button type="button" class="btn btn-primary" id="savebtn">Save</button>
             </div>
         </div>
     </div>
 </div>
+
+<br />
+<br />
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Salary</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody id="tabledata">
+
+
+    </tbody>
+</table>
 <script src="~/lib/jquery/dist/jquery.min.js"></script>
 <script src="~/lib/jquery/dist/jquery.js"></script>
 <script src="~/js/Doc.js"></script>
