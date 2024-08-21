@@ -4,8 +4,9 @@
 
 $('#btn1').click(function () {
     $('#exampleModal').modal('show');
+    $('#Id').hide();
     $('#Updatebtn').hide();
-    $('savebtn').show();
+    $('#savebtn').show();
 
 });
 
@@ -79,6 +80,7 @@ function delEmp(id) {
             url: '/Ajax/DeleteEmp?eid=' + id,
             success: function () {
                 alert("emp Deleted Successfully");
+                GetEmpData();
             },
             error: function () {
                 alert("Something went Wrong Please try again");
@@ -95,11 +97,17 @@ function EditEmp(id) {
         contentType: 'application/json;charset=utf8;',
         success: function (response) {
             $('#exampleModal').modal('show');
+            $('#Updatebtn').show();
+            $('#savebtn').hide();
+            $('#Id').show();
+            $('Empid').show();
+            $('#Empid').val(response.id);
             $('#Name').val(response.name);
             $('#Email').val(response.email);
             $('#Salary').val(response.salary);
-            $('Updatebtn').show();
-            $('savebtn').hide();
+           
+
+            
 
         },
         error: function () {
@@ -107,3 +115,55 @@ function EditEmp(id) {
         }
     })
 }
+
+$('#Updatebtn').click(function () {
+
+    var obj = $('#myform').serialize();
+    $.ajax({
+        url: '/Ajax/UpdateEmp',
+        type: 'Post',
+        dataType: 'json',
+        contentType: 'application/x-www-form-urlencoded;charset=utf8',
+        data: obj,
+        success: function () {
+            alert("Emp Updated Successfully");
+            $('#exampleModal').modal('hide');
+            clear();
+            GetEmpData();
+        },
+        error: function () {
+            alert("Something went Wrong");
+        }
+
+    })
+});
+
+
+function SearchEmpData() {
+    var sdata = $('#search').val();
+    $.ajax({
+        url: '/Ajax/SearchEmpData?sdata='+sdata,
+        type: 'Get',
+        dataType: 'json',
+        contentType: 'application/json;charset=utf8',
+        success: function (result, status, xhr) {
+            obj = '';
+            $.each(result, function (index, item) {
+                obj += "<tr>";
+                obj += "<td>" + item.id + "</td>";
+                obj += "<td>" + item.name + "</td>";
+                obj += "<td>" + item.email + "</td>";
+                obj += "<td>" + item.salary + "</td>";
+                obj += "<td><input type='button' class='btn btn-sm btn-danger' value='Delete' onclick='delEmp(" + item.id + ")'/>|<input type='button' class='btn btn-sm btn-success' value='Edit' onclick='EditEmp(" + item.id + ")'/></td>"
+                obj += "</tr>";
+            });
+            $("#tabledata").html(obj);
+        },
+        error: function () {
+            alert("Data not Found")
+        }
+    });
+
+    
+}
+
